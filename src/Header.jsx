@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <>
-    <img src="" alt="" />
+    <img src="/logocoffee.png" alt="logo" width={100}/>
     <h1 className="ms-5 mt-5 text-4xl text-green-800 font-bold">
         Kornkamon Coffee Shop
     </h1>
